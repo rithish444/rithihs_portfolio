@@ -1,2 +1,1 @@
-# rithihs_portfolio
- my personal portfolio website
+hi my name is rithihs
